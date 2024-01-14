@@ -9,5 +9,4 @@ public class MyOceanApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MyOceanApplication.class, args);
 	}
-
 }
